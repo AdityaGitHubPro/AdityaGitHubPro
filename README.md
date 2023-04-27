@@ -8,24 +8,24 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 You can check out me on [Click](https://suraj-s13.github.io/)
+- 👨‍💻 You can check out me on [Click](https://gkv.ac.in/)
 
-- 📫 How to reach me **13surajsingh01@gmail.com**
+- 📫 How to reach me **206301102@gkv.ac.in**
 <br />
 
 <h3 align="left">Connect me:</h3>
 <p align="left">
   
-[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/suraj-s13)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/suraj-singh-71a373217/)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/_suraj_ss_?igshid=YmMyMTA2M2Y=)
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Surajs13s?t=xFGY1Ybzie3pVK8IXLSpSg&s=09)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/AdityaGitHubPro)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aditya-narnaware/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/AdityaRN2002)
  <br />
   
 <h3 align="left">Coding Platform:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/surajs13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/surajs13" height="50" width="50" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/suraj-s13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/suraj-s13/" height="50" width="50" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/h206301102" height="50" width="50" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/aditya_narnaware//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aditya_narnaware/" height="50" width="50" /></a>
 <a href="https://www.hackerearth.com/https://www.hackerearth.com/@suraj3005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@suraj3005" height="50" width="50" /></a>
 <br /><br />
 <h3 align="left">Languages and Tools:</h3>
@@ -38,13 +38,13 @@
  <i><b>Git Activeness</b></i></p>
  
  <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=suraj-s13&theme=github_dark&cache_seconds=30&hide_border=true"/>&nbsp;&nbsp;&nbsp;
-  <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-s13&theme=github_dark&cache_seconds=30&hide_border=true"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suraj-s13&theme=github_dark"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=AdityaGitHubPro&theme=github_dark&cache_seconds=30&hide_border=true"/>&nbsp;&nbsp;&nbsp;
+  <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGitHubPro&theme=github_dark&cache_seconds=30&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaGithubPro&theme=github_dark"/>
 </p>
  
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suraj-s13&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=suraj-s13&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaGitHubPro&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=AdityaGitHubPro&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br> -->
 
 <hr>
